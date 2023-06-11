@@ -55,7 +55,7 @@ elseif a=="ffjfjcjid"then
 _G.bbamxbbamxbbamx=true
 elseif a=="rrrrrrrytiy"then
 _G.bbamxbbamxbbamx=true
-elseif a==""then
+elseif a=="smalldogjia"then
 _G.bbamxbbamxbbamx=true
 end
 if _G.bbamxbbamxbbamx==true then
