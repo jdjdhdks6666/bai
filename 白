@@ -1,7 +1,7 @@
 local a=tostring(game.Players.LocalPlayer.Character);
 if a=="wekjihu"then
 _G.bbamxbbamxbbamx=true
-elseif a=="ysxixixixi"then
+elseif a=="noob_ghdjs"then
 _G.bbamxbbamxbbamx=true
 elseif a=="sbsbssbssbmh"then
 _G.bbamxbbamxbbamx=true
