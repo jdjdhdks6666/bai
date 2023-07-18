@@ -1,39 +1,39 @@
-local a=tostring(game.Players.LocalPlayer.Character);
-if a=="cmjx666"then
-_G.bbamxbbamxbbamx=true
-elseif a=="351566ju"then
-_G.bbamxbbamxbbamx=true
-elseif a=="sbsbssbssbmh"then
-_G.bbamxbbamxbbamx=true
-elseif a=="chuyoula"then
-_G.bbamxbbamxbbamx=true
-elseif a=="odvdu31838"then
-_G.bbamxbbamxbbamx=true
-elseif a=="nanguashixie"then
-_G.bbamxbbamxbbamx=true
-elseif a=="KASOPTE"then
-_G.bbamxbbamxbbamx=true
-elseif a=="odcukv"then
-_G.bbamxbbamxbbamx=true
-elseif a=="haozengrui147258"then
-_G.bbamxbbamxbbamx=true
-elseif a=="AreiuEr35"then 
-_G.bbamxbbamxbbamx=true
-elseif a=="bdobdysxy"then
-_G.bbamxbbamxbbamx=true
-elseif a=="123quwpeo"then
-_G.bbamxbbamxbbamx=true
-elseif a=="xiaorizishuzhi666"then
-_G.bbamxbbamxbbamx=true
-elseif a=="asdf478385"then 
-_G.bbamxbbamxbbamx=true
-elseif a=="ikunbobi"then 
-_G.bbamxbbamxbbamx=true
-elseif a=="Iwowoeeii"then
-_G.bbamxbbamxbbamx=true
-elseif a=="Areyoumakingstory"then 
-_G.bbamxbbamxbbamx=true
-elseif a=="jfyrohfgfur"then
+当地的a=t字符串(游戏。玩家。本地玩家。性格)；
+如果a=="cmjx666"，则
+_G.bbamxbamxbbamxbamx=true
+否则，如果a=="351566ju"，则
+_G.bbamxbamxbbamxbamx=true
+否则，如果a=="sbsbssbssbmh"，则
+_G.bbamxbamxbbamxbamx=true
+else if a=="chuyula"则
+_G.bbamxbamxbbamxbamx=true
+否则，如果a=="odvdu31838"，则
+_G.bbamxbamxbbamxbamx=true
+否则，如果a=="nanguashixie"，则
+_G.bbamxbamxbbamxbamx=true
+否则，如果a=="KASOPTE"，则
+_G.bbamxbamxbbamxbamx=true
+否则，如果a=="odcukv"，则
+_G.bbamxbamxbbamxbamx=true
+else if a=="haozengrui147258"则
+_G.bbamxbamxbbamxbamx=true
+否则，如果a=="AreiuEr35"，则
+_G.bbamxbamxbbamxbamx=true
+否则，如果a=="bdobdyxy"，则
+_G.bbamxbamxbbamxbamx=true
+否则，如果a=="123quwpeo"，则
+_G.bbamxbamxbbamxbamx=true
+else if a=="xiaoirizsuzhi666"则
+_G.bbamxbamxbbamxbamx=true
+否则，如果a=="asdf478385"，则
+_G.bbamxbamxbbamxbamx=true
+否则，如果a=="ikunbobi"，则
+_G.bbamxbamxbbamxbamx=true
+否则，如果a=="Iwwoeeii"，则
+_G.bbamxbamxbbamxbamx=true
+否则，如果a=="你正在制作故事"，则
+_G.bbamxbamxbbamxbamx=true
+否则，如果a=="jfyrohfgfur"，则
 _G.bbamxbbamxbbamx=true
 elseif a=="Ehhsbsuj"then
 _G.bbamxbbamxbbamx=true
