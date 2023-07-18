@@ -2,6 +2,8 @@
 如果a==""，则
 _G.bbamxbamxbbamxbamx=true
 否则，如果a=="351566ju"，则
+_G.bbamxbbamxbbamx=true
+elseif a==""then
 _G.bbamxbamxbbamxbamx=true
 否则，如果a=="sbsbssbssbmh"，则
 _G.bbamxbamxbbamxbamx=true
