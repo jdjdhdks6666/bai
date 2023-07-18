@@ -1,5 +1,5 @@
 当地的a=t字符串(游戏.玩家。本地玩家。性格)；
-如果a=="Chinay"，则
+如果a=="ChinayDOORS"，则
 _G.bbamxbamxbbamxbamx=true
 否则，如果a=="sbsbssbssbmh"，则
 _G.bbamxbamxbbamxbamx=true
@@ -13,7 +13,7 @@ _G.bbamxbamxbbamxbamx=true
 _G.bbamxbamxbbamxbamx=true
 否则，如果a=="odcukv"，则
 _G.bbamxbamxbbamxbamx=true
-else if a=="haozengrui147258"则
+else if a=="haozengrui147258"，则
 _G.bbamxbamxbbamxbamx=true
 否则，如果a=="AreiuEr35"，则
 _G.bbamxbamxbbamxbamx=true
