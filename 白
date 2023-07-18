@@ -1,5 +1,5 @@
 local a=tostring(game.Players.LocalPlayer.Character);
-if a==""then
+if a=="cmjx666"then
 _G.bbamxbbamxbbamx=true
 elseif a=="351566ju"then
 _G.bbamxbbamxbbamx=true
